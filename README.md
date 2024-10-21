@@ -2,14 +2,14 @@
 
 MLproject-1
 
-**Project Overview**
+ # **Project Overview**
 
 •	Objective: Develop a classification model to predict whether candidates will be hired based on various attributes.
 
 •	Dataset: Consists of 690 candidates with 16 features, including both categorical and numerical variables. The target variable is the "Hired" flag (0 or 1).
 
 
-**Tools Used**
+# **Tools Used**
 
 •	Programming Language: Python
 
@@ -23,7 +23,7 @@ MLproject-1
 
 
 
-**Responsibilities**
+# **Responsibilities**
 
 •	Loaded the dataset using Pandas. Performed exploratory data analysis (EDA) to understand the distribution of variables 
     and detect any inconsistencies or missing values.
